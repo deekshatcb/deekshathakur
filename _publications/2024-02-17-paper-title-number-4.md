@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Substrate promiscuity: a continuum feature of enzymes"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: https://www.cell.com/biophysj/fulltext/S0006-3495(21)01990-1
+excerpt: 'This paper is a systematical study of the structural attributes of the ligand binding/catalytic residues of known promiscuous and specialist enzymes'
+date: 2022-02-22
+venue: 'Biophysical Journal'
+paperurl: 'https://www.cell.com/action/showPdf?pii=S0006-3495%2821%2901990-1'
+citation: 'Thakur, Deeksha et al. (2022). Biophysical Journal, Volume 121, Issue 3, 344a '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this study, we have systematically studied the structural attributes of the ligand binding/catalytic residues of known promiscuous and specialist enzymes. The flexibility of substrate binding sites as measured using B-factor, dynamic flexibility index, and graph theoretical approaches showed that these are similar between specialist and generalist. Further, our analysis coherently indicates structural invariability of the enzymes, which are functionally different in terms of their ability to catalyze alternate substrates. This coherence over a range of structural features suggests that promiscuous enzymes and specialist enzymes broadly share similar attributes.
