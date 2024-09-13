@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://www.sciencedirect.com/science/article/pii/S1047847722000053?via%3Dihub
 excerpt: 'This paper is about comparison of structural features of substrate promiscuous and specialist enzymes.'
-date: 2022-03
+date: 2022-02-01
 venue: 'Journal of Structural Biology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1047847722000053?via%3Dihub'
 citation: 'Thakur, D., & Pandit, S. B. (2022). Unusual commonality in active site structural features of substrate promiscuous and specialist enzymes. Journal of Structural Biology, 214(1), 107835.'
