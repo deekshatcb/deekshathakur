@@ -2,11 +2,11 @@
 title: "Substrate promiscuity: a continuum feature of enzymes"
 collection: publications
 category: conferences
-permalink: https://www.cell.com/biophysj/fulltext/S0006-3495(21)01990-1
+permalink: 'https://www.cell.com/biophysj/fulltext/S0006-3495(21)01990-1'
 excerpt: 'This paper is a systematical study of the structural attributes of the ligand binding/catalytic residues of known promiscuous and specialist enzymes'
 date: 2022-02-22
 venue: 'Biophysical Journal'
-paperurl: 'https://www.cell.com/action/showPdf?pii=S0006-3495%2821%2901990-1'
+paperurl: 'https://www.cell.com/biophysj/fulltext/S0006-3495(21)01990-1'
 citation: 'Thakur, Deeksha et al. (2022). Biophysical Journal, Volume 121, Issue 3, 344a '
 ---
 
