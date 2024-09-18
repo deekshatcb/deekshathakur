@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Hello there...!"
+title: "Deeksha Thakur"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I have completed my Ph.D. in the field of computational biology. 
+Hello There!
+My name is Deeksha and you're welcome at my academic profile. I am a computational biologist with a passion for analyzing data and uncovering the hidden stories within. I enjoy making sense of complex datasets and revealing the insights buried beneath the surface. 
 
 A data-driven personal website
 ======
