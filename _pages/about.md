@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello There!
-My name is Deeksha and you're welcome at my academic profile. I am a computational biologist with a passion for analyzing data and uncovering the hidden stories within. I enjoy making sense of complex datasets and revealing the insights buried beneath the surface. 
+Hello and Welcome!
+
+I am a PhD graduate, trained as a computational structural biologist in [ISCB lab](https://shashibp-lab.github.io/projects/), with a passion for analyzing data and uncovering the hidden stories within. I enjoy making sense of complex datasets and revealing the insights buried beneath the surface. 
+
 
 A data-driven personal website
 ======
