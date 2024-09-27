@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Academic Profile"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Deeksha Thakur"
 description              : &description "personal description"
 url                      : "https://deekshatcb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/deekshathakur" # the subpath of your site, e.g. "/blog"
