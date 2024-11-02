@@ -2,7 +2,7 @@
 title: "Unusual commonality in active site structural features of substrate promiscuous and specialist enzymes"
 collection: publications
 category: manuscripts
-permalink: 'https://www.sciencedirect.com/science/article/pii/S1047847722000053?via%3Dihub'
+permalink: '/publication/2009-10-01-paper-title-number-1'
 excerpt: 'This paper is about comparison of structural features of substrate promiscuous and specialist enzymes.'
 date: 2022-02-01
 venue: 'Journal of Structural Biology'
