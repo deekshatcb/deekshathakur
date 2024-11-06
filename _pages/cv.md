@@ -15,7 +15,7 @@ Education
 * M.S. in Biochemistry, Panjab University, 2017
 * B.S. in Biochemistry, Panjab University, 2015
 
-Skills & Software Knowledge
+Skills and Software Knowledge
 ======
 * Basic knowledge
   * Bash Scripting
