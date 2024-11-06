@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "BIO411: Bioinformatics lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IISER Mohali, Department of Biological Sciences"
+date: 2018
+url: 'https://www.iisermohali.ac.in/files/webfolders/courses-of-study-2023_Updated/node83.html'
+location: "Mohali, India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
