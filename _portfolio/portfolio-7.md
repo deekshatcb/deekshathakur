@@ -1,6 +1,6 @@
 ---
 title: "Project 7"
-excerpt: "Functional annotation through SLiMs (Short Linear Motifs) identification <br/><img src='/images/500x300.png'>"
+excerpt: "Functional annotation through SLiMs (Short Linear Motifs) identification. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
