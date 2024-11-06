@@ -1,6 +1,6 @@
 ---
 title: "Project 1"
-excerpt: "Understanding the structurally discerning features of the active site of substrate promiscuous and specialist enzymes<br/><img src='/images/500x300.png'>"
+excerpt: "Understanding the structurally discerning features of the active site of substrate promiscuous and specialist enzymes. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
