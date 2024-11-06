@@ -6,7 +6,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'To explore the role of active site conformational flexibility in substrate promiscuity, we compared the conformational states of two substrate promiscuous and specialist enzymes by analyzing their binding site structural dynamics.'
 date: 2024-07-15
 venue: 'bioRxiv'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.07.15.603504v1'
 citation: 'Thakur D, Verma P, Pandit SB. Deciphering binding site conformational variability of substrate promiscuous and specialist enzymes. bioRxiv , 2024'
 ---
