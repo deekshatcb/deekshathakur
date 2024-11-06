@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Structural Biology, IISER Mohali, 2024
+* Ph.D. in Computational Structural Biology, IISER Mohali, 2024
 * M.S. in Biochemistry, Panjab University, 2017
 * B.S. in Biochemistry, Panjab University, 2015
 
