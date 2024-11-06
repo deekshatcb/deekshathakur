@@ -48,16 +48,16 @@ Teaching
 Awards
 ======
 
-* 2017 | Qualified GATE (Life Sciences: Jan-2017)
-* 2017 | Qualified National Eligibility Test (Life Sciences: Dec 2017)
+* Qualified GATE (Life Sciences: Jan-2017)
+* Qualified National Eligibility Test (Life Sciences: Dec 2017)
 
 Conferences
 ======
 
-* 2022 | Biophysics at the Dawn of Exascale Computers thematic meeting | DESY Hamburg, Germany
-* 2022 | Theoretical chemistry and Biology Symposium | NABI Mohali, India
+* Biophysics at the Dawn of Exascale Computers thematic meeting | DESY Hamburg, Germany (2022)
+* Theoretical chemistry and Biology Symposium | NABI Mohali, India (2022)
 
 Workshop
 ======
 
-* 2019 | IITM-EBI Modelling Workshop | IIT Madras, INDIA
+* IITM-EBI Modelling Workshop, IIT Madras, INDIA (2019)
