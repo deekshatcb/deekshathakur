@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Deciphering binding site conformational variability of substrate promiscuous and specialist enzymes. [preprint]"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'To explore the role of active site conformational flexibility in substrate promiscuity, we compared the conformational states of two substrate promiscuous and specialist enzymes by analyzing their binding site structural dynamics.'
+date: 2024-07-15
+venue: 'bioRxiv'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf](https://www.biorxiv.org/content/10.1101/2024.07.15.603504v1'
+citation: 'Thakur D, Verma P, Pandit SB. Deciphering binding site conformational variability of substrate promiscuous and specialist enzymes. bioRxiv , 2024'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Substrate promiscuity is the ability of enzymes to catalyze reactions with alternate substrate(s) beyond their physiologically relevant ones. Such promiscuous activities expand enzymes functional landscape, enabling evolution or designing novel biochemical reactions. The molecular basis of substrate promiscuity mostly remains elusive, though recent studies have highlighted an important role of active site conformational variability in promiscuity. Accordingly, promiscuous enzymes could accommodate alternate substrate(s) through their pre-existing conformations, whereas specialists have a dominant conformation for their native substrates. To explore the role of active site conformational flexibility in substrate promiscuity, we compared the conformational states of substrate promiscuous and specialist enzymes by analyzing their binding site structural dynamics. In addition to visual analysis of the variability of these states, we performed quantitative estimation of the variability using the native functionality score, which quantifies the similarity of conformations to the native binding state. Through our analyses, we observed that substrate binding-competent states are being conformationally variable or restricted in both groups of enzymes. Thus, indicating that both promiscuous and specialist enzymes harbors conformational flexibility to accommodate substrate or intermediate catalytic steps to variable degrees.
