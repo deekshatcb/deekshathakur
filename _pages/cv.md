@@ -54,8 +54,8 @@ Awards
 Conferences
 ======
 
-* Biophysics at the Dawn of Exascale Computers thematic meeting | DESY Hamburg, Germany (2022)
-* Theoretical chemistry and Biology Symposium | NABI Mohali, India (2022)
+* Biophysics at the Dawn of Exascale Computers thematic meeting, DESY Hamburg, Germany (2022)
+* Theoretical chemistry and Biology Symposium, NABI Mohali, India (2022)
 
 Workshop
 ======
