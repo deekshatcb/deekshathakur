@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
+
 * Ph.D. in Computational Structural Biology, IISER Mohali, 2024
 * M.S. in Biochemistry, Panjab University, 2017
 * B.S. in Biochemistry, Panjab University, 2015
 
-Skills and Software Knowledge
+Skills & Software Knowledge
 ======
+
 * Basic knowledge
   * Bash Scripting
   * Metabolic flux balance analysis – cobratoolbox (MATLAB)
@@ -45,14 +47,17 @@ Teaching
 
 Awards
 ======
+
 * 2017 | Qualified GATE (Life Sciences: Jan-2017)
 * 2017 | Qualified National Eligibility Test (Life Sciences: Dec 2017)
 
 Conferences
 ======
+
 * 2022 | Biophysics at the Dawn of Exascale Computers thematic meeting | DESY Hamburg, Germany
 * 2022 | Theoretical chemistry and Biology Symposium | NABI Mohali, India
 
 Workshop
 ======
+
 * 2019 | IITM-EBI Modelling Workshop | IIT Madras, INDIA
