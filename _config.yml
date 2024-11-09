@@ -21,7 +21,7 @@ repository               : "deekshathakur"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PH17010.jpg"
+  avatar           : "ph17010.jpg"
   name             : "Deeksha Thakur"
   pronouns         : "she/her"  
   bio              : "A curious computational biologist"
