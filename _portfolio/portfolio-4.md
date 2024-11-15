@@ -1,6 +1,6 @@
 ---
 title: "Project 4"
-excerpt: "Unraveling the spectrum of binding site conformational variability in a set of substrate promiscuous and specialist enzymes. <br/><img src='/images/500x300.png'>"
+excerpt: "Unraveling the spectrum of binding site conformational variability in a set of substrate promiscuous and specialist enzymes. <br/><img src='/images/TOC.png'>"
 collection: portfolio
 ---
 
