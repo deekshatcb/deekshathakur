@@ -1,5 +1,5 @@
 ---
-title: "Project 6"
+title: "Project 3"
 excerpt: "Local frustrated regions on enzyme’s surface and their correlation to the active site residues. <br/><img src='../images/rhf.png'>"
 collection: portfolio
 ---
