@@ -1,5 +1,5 @@
 ---
-title: "Project 5"
+title: "Project 4"
 excerpt: "ENACT nomenclature for analyzing alternative splicing mediated proteome diversity. <br/><img src='../images/enact.png'>"
 collection: portfolio
 ---
