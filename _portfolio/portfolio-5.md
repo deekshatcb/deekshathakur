@@ -1,5 +1,5 @@
 ---
-title: "Project 3"
+title: "Project 5"
 excerpt: "Studying the effect of genetic perturbations on growth of E. coli using genome scale metabolic models. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
