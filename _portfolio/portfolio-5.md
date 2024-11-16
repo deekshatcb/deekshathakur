@@ -1,6 +1,6 @@
 ---
 title: "Project 5"
-excerpt: "Studying the effect of genetic perturbations on growth of E. coli using genome scale metabolic models. <br/><img src='../images/icl.png'>"
+excerpt: "Studying the effect of genetic perturbations on growth of E. coli using genome scale metabolic models. <br/><img src='../images/icldel.png'>"
 collection: portfolio
 ---
 
